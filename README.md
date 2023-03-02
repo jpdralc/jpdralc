@@ -1,5 +1,3 @@
-## bem vindo ao meu cantinho
-
 <div>
 <b><h4>Sou um desenvolvedor em desenvolvimento;<br></h4></b>
 <h6>(como podemos ver esse perfil também está em desenvolvimento, então vamos com calma)  <img align='center' height='20px' width='20px' src='https://media.tenor.com/On7kvXhzml4AAAAj/loading-gif.gif'></h6>
